@@ -1,2 +1,2 @@
 # bfe-practice
-Structured BFE.dev + LeetCode practice with notes
+Structured BFE.dev practice with notes
